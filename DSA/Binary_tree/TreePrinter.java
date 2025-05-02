@@ -162,5 +162,6 @@ public class TreePrinter {
 
         // Print the tree
         TreePrinter.print(root);
+        TreePrinter.print(root);
     }
 }
