@@ -54,5 +54,6 @@ public class inorder {
         System.out.println("Postorder traversal of binary tree is: ");
         Node.printPostorder(Root);
         System.out.println();
+        System.out.println();
     }
 }
